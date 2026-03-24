@@ -1,5 +1,10 @@
 import os
 path_work = "/projects/EVS-Sisyphe/Paudisio/Database"
+
+
+#path_work = "/C:/Desktop/Melissa/STAGE_M1_ENS/Database"
+
+
 os.chdir(path_work)
 
 import numpy as np
